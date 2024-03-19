@@ -1,0 +1,10 @@
+Neighbors of:     1 O at:   0.2117 -0.9518  0.5305
+    2 O                     1.5640  Ang. Really at:   2.3158  0.8954 -0.4161
+    3 H                     2.9823  Ang. Really at:  -0.1888  4.4359 -1.0738
+Neighbors of:     2 O at:   2.3158  0.8954 -0.4161
+    1 O                     1.5640  Ang. Really at:   0.2117 -0.9518  0.5305
+    3 H                     2.3212  Ang. Really at:  -0.1888  4.4359 -1.0738
+Neighbors of:     3 H at:  -0.1888  4.4359 -1.0738
+    2 O                     2.3212  Ang. Really at:   2.3158  0.8954 -0.4161
+    1 O                     2.9823  Ang. Really at:   0.2117 -0.9518  0.5305
+ Atom            4 : no bonds for rmax specified:    3.1750620000000001       Ang.
